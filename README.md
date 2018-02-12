@@ -32,7 +32,7 @@ If you'd like to customize this project for your own use:
 
 ## What about sprout-wrap?
 
-This project is provided as an alternative to the [pivotal-sprout/sprout-wrap](https://github.com/pivotal-sprout/sprout-wrap) project. You are encouraged to use that project if it better suits your needs.
+This project is pr   ovided as an alternative to the [pivotal-sprout/sprout-wrap](https://github.com/pivotal-sprout/sprout-wrap) project. You are encouraged to use that project if it better suits your needs.
 
 The goals of this projects is to keep the setup process simple and up to date:
 
